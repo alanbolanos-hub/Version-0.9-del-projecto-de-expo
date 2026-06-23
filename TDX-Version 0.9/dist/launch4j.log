@@ -1,0 +1,37 @@
+
+
+Version:	3.50
+CmdLine:	D:\5to computacion\Juegos\Juegos-hechos-en-NetBeans-main\TDX-Version 0.5\dist\TDX.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\5to computacion\Juegos\Juegos-hechos-en-NetBeans-main\TDX-Version 0.5\dist\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.010.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Computacion\AppData\Local\Programs\Python\Python314\Scripts\;C:\Users\Computacion\AppData\Local\Programs\Python\Python314\;C:\Users\Computacion\AppData\Local\Programs\Python\Launcher\;C:\Users\Computacion\AppData\Local\Microsoft\WindowsApps;C:\Users\Computacion\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Computacion\AppData\Local\Programs\Python\Python314\Scripts\;C:\Users\Computacion\AppData\Local\Programs\Python\Python314\;C:\Users\Computacion\AppData\Local\Programs\Python\Launcher\;C:\Users\Computacion\AppData\Local\Microsoft\WindowsApps;C:\Users\Computacion\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Autodesk Shared\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Computacion\AppData\Local\Programs\Python\Python314\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Computacion\AppData\Local\Programs\Python\Python314\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Computacion\AppData\Local\Programs\Python\Launcher\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Computacion\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Computacion\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "D:\5to computacion\Juegos\Juegos-hechos-en-NetBeans-main\TDX-Version 0.5\dist\TDX.exe"
+Args length:	92/32768 chars
+Exit code:	0
